@@ -7,4 +7,4 @@ This project has been developed during the course of Optimal Control at Sapienza
 ## Usage
 
 In order to easily reproduce the experiments, you can find a Matlab Live Script file (.mlx) in the main folder. In the MatlabScripts folder all the Matlab (.m) files used for the simulations are provided.
-a
+
