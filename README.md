@@ -1,4 +1,4 @@
-# Discrete LQR control for determining the optimal inhibitor dose level for an anti-angiogenic therapy based on a mathematical model of tumor growth dynamics.
+# Discrete Linear Quadratic Regulator (LQR) control for determining the optimal inhibitor dose level for an anti-angiogenic therapy based on a mathematical model of tumor growth dynamics.
 
 This repository contains a technical report and the code of an unofficial Matlab R2019b implementation of the strategy presented in the paper: [Toward Cancer Antiangiogenic Therapy: A Strategy for Determining Optimal Inhibitor Dose Level Based on Mathematical Model](https://ieeexplore.ieee.org/document/8610560) by Bobby Rian Dewangga, Hanung Adi Nugroho, Samiadji Herdjunanto.
 
